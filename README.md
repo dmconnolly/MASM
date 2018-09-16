@@ -1,1 +1,1 @@
-Doing some exercises from [Practical Reverse Engineering](https://www.amazon.co.uk/dp/1118787315).
+Exercises from [Practical Reverse Engineering](https://isbndb.com/book/9781118787311).
